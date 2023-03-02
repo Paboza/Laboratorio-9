@@ -1,5 +1,5 @@
 # Laboratorio-9
-INTEGRANTES : Boza Paul
+INTEGRANTES : Asuero Joel, Boza Paul, Cevallos Karen
 
 NRC:10069
 
