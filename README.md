@@ -73,7 +73,6 @@ Procedimiento.-
 
 ![image](https://user-images.githubusercontent.com/116833964/222500013-cc51780e-9000-43a9-91a8-c51bc37efbb0.png)
 
-    9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
 NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No
 debe emplear aplicaciones web y las operaciones deben realizarse en una sola
