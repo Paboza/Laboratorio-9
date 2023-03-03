@@ -3,7 +3,7 @@ INTEGRANTES : Asuero Joel, Boza Paul, Cevallos Karen
 
 NRC:10069
 
-FECHA: 17 de Enero de 2023
+FECHA: 03 de Marzo 2023
 
 Objetivo General.-
 
